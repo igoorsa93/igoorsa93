@@ -21,12 +21,12 @@
 ## 👨‍💻 Sobre
 <div align="center">
 
-**🎓 Estudante** de Sistemas de Informação (Estácio FAP) • **📍** Belém, PA • **🎂** 32 anos
+**🎓 Estudante** de Sistemas de Informação (Estácio FAP) • **📍** Belém, PA • **🎂** 33 anos
 
   Estudante de Sistemas de Informação | Engenharia de Dados | Python • SQL • AWS
 <div align="center">
 
-## 🛠️  Linguagens e Tecnologias 🤖
+## 🛠️  Linguagens e Tecnologias 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgresql,aws,git" />
