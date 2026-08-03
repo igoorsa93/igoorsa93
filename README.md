@@ -123,7 +123,7 @@ Especializado no desenvolvimento de dashboards executivos, modelagem de dados e 
 | Projeto | Descrição | Repositório |
 | :--- | :--- | :---: |
 | 📊 **Dashboard Executivo Power BI** | Visão unificada de vendas, faturamento, metas e desempenho por filial | [🔗 Ver Código](#) |
-| 💰 **Automação Financeira API Omie** | Integração e automação de fluxos financeiros via API ERP Omie | [🔗 Ver Código](#) |
+| 💰 **Automação Financeira API Omie** | Integração e automação de fluxos financeiros via API ERP Omie | [🔗 Ver Código](https://github.com/igoorsa93/Integra-o-Inteligente-n8n-API-Omie-para-Automa-o-de-Processos) |
 | 🔗 **Integração Omie + Python** | Pipeline em Python para extração e sincronização de dados via REST API | [🔗 Ver Código](#) |
 | ⚙️ **Orquestração com n8n** | Workflows automatizados para otimização de processos de negócio | [🔗 Ver Código](#) |
 | 🧱 **Pipelines de Dados** | Arquitetura e estruturação para ingestão, transformação e carga de dados | [🔗 Ver Código](#) |
