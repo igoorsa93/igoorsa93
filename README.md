@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:F97316&height=170&section=header&text=Igor%20Cardoso&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Analytics%20•%20Business%20Intelligence%20•%20Data%20Engineering&descAlignY=62&descSize=16" width="100%"/>
 
-<sub><b>Analista de Inteligência Empresarial @ PREMINT</b>&nbsp;&nbsp;·&nbsp;&nbsp;📍 Belém, PA, Brasil</sub>
+<sub><b>Analista de Inteligência Empresarial </b>&nbsp;&nbsp;·&nbsp;&nbsp;📍 Belém, PA, Brasil</sub>
 
 <br/><br/>
 
@@ -16,11 +16,11 @@
 
 ## 👨🏻‍💻 Sobre Mim
 
-Analista de Inteligência Empresarial na **PREMINT (Pré-Moldados Inteligentes)**, atuando na transformação de dados operacionais em insights estratégicos para suporte à tomada de decisão. Graduando no 5º semestre de **Sistemas de Informação**, com foco contínuo em Análise, Engenharia e Ciência de Dados.
+Analista de Inteligência Empresarial , atuando na transformação de dados operacionais em insights estratégicos para suporte à tomada de decisão. Graduando no 5º semestre de **Sistemas de Informação**, com foco contínuo em Análise, Engenharia e Ciência de Dados.
 
 Especializado no desenvolvimento de dashboards executivos, modelagem de dados e pipelines automatizados utilizando **Power BI, Python e SQL**, além da integração de **n8n** e **IA Generativa** para otimização e orquestração de fluxos de trabalho.
 
-> 🚀 **Foco Atual:** Arquitetura e Engenharia de Dados, Pipelines ETL/ELT e Cloud Computing (AWS/GCP).
+> **Foco Atual:** Arquitetura e Engenharia de Dados | Data Engineering | Pipelines ETL/ELT | Python | APIs REST | Modelagem e Integração de Dados | Cloud Data (Omie)
 
 <br/>
 
@@ -116,29 +116,9 @@ Especializado no desenvolvimento de dashboards executivos, modelagem de dados e 
 
 </div>
 
-<br/>
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Repositório |
-| :--- | :--- | :---: |
-| 📊 **Dashboard Executivo Power BI** | Visão unificada de vendas, faturamento, metas e desempenho por filial | [🔗 Ver Código](#) |
-| 💰 **Automação Financeira API Omie** | Integração e automação de fluxos financeiros via API ERP Omie | [🔗 Ver Código](https://github.com/igoorsa93/Integra-o-Inteligente-n8n-API-Omie-para-Automa-o-de-Processos) |
-| 🔗 **Integração Omie + Python** | Pipeline em Python para extração e sincronização de dados via REST API | [🔗 Ver Código](#) |
-| ⚙️ **Orquestração com n8n** | Workflows automatizados para otimização de processos de negócio | [🔗 Ver Código](#) |
-| 🧱 **Pipelines de Dados** | Arquitetura e estruturação para ingestão, transformação e carga de dados | [🔗 Ver Código](#) |
-| 📑 **Relatórios Gerenciais** | Automação na geração e envio de relatórios operacionais | [🔗 Ver Código](#) |
-| 🐍 **ETL em Python** | Scripts reutilizáveis de extração e tratamento de dados | [🔗 Ver Código](#) |
-
-<br/>
-
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=igoorsa93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&icon_color=F97316&text_color=c9d1d9"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoorsa93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&text_color=c9d1d9&langs_count=8"/>
-
 <br/>
 
 <img width="66%" src="https://github-readme-streak-stats.herokuapp.com/?user=igoorsa93&theme=tokyonight&hide_border=true&background=0d1117&ring=2563EB&fire=F97316&currStreakLabel=2563EB"/>
