@@ -1,126 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:F97316&height=170&section=header&text=Igor%20Cardoso&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Analytics%20•%20Business%20Intelligence%20•%20Data%20Engineering&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:F97316&height=170&section=header&text=Igor%20Cardoso&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Analytics%20%7C%20Data%20%7C%20BI" width="100%" alt="Banner de perfil" />
 
-<sub><b>Analista de Inteligência Empresarial </b>&nbsp;&nbsp;·&nbsp;&nbsp;📍 Belém, PA, Brasil</sub>
+<h1>Igor Cardoso</h1>
 
-<br/><br/>
+<p>
+  <strong>Analista de Inteligência Empresarial</strong><br>
+  BI • Data • Python • SQL • Power BI • Automação
+</p>
 
-<a href="https://linkedin.com/in/igorsa93" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:igoorsa93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/igoorsa93?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p>
+  <sub>📍 Belém, PA, Brasil</sub>
+</p>
 
-</div>
-
-<br/>
-
-## 👨🏻‍💻 Sobre Mim
-
-Analista de Inteligência Empresarial , atuando na transformação de dados operacionais em insights estratégicos para suporte à tomada de decisão. Graduando no 5º semestre de **Sistemas de Informação**, com foco contínuo em Análise, Engenharia e Ciência de Dados.
-
-Especializado no desenvolvimento de dashboards executivos, modelagem de dados e pipelines automatizados utilizando **Power BI, Python e SQL**, além da integração de **n8n** e **IA Generativa** para otimização e orquestração de fluxos de trabalho.
-
-> **Foco Atual:** Arquitetura e Engenharia de Dados | Data Engineering | Pipelines ETL/ELT | Python | APIs REST | Modelagem e Integração de Dados | Cloud Data (Omie)
-
-<br/>
-
-## 💼 Experiência Profissional
-
-<div align="center">
-
-| Empresa / Cargo | Período | Principais Atividades |
-| :--- | :---: | :--- |
-| **PREMINT**<br/><sub>Analista de Inteligência Empresarial</sub> | jun/2026 — Atual | Dashboards de produção, estoque, vendas e financeiro · Modelagem de dados (DAX e Power Query) · Automação de rotinas com Python e SQL · Aplicação de IA Generativa para análise e documentação. |
-| **Perto S.A.**<br/><sub>Assistente de Operações</sub> | out/2024 — fev/2026 | Suporte à gestão da filial e logística de peças/serviços · Controle de estoque e sistemas ERP (Logix, SAT) · Inspeção de qualidade e rotinas administrativas. |
+<a href="https://linkedin.com/in/igorsa93" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:igoorsa93@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/igoorsa93?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+</a>
 
 </div>
 
-<br/>
+---
 
-## 🛠️ Stack Tecnológica
+## 👨‍💻 Sobre mim
 
-<div align="center">
+Sou analista de Inteligência Empresarial com foco em transformar dados operacionais em insights estratégicos para apoiar decisões de negócio. Tenho experiência em dashboards executivos, modelagem de dados, automação de processos e suporte à gestão com base em dados.
 
-### Linguagens & Bancos de Dados
-<img src="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,aws,gcp,git,github,vscode&theme=dark" />
+Atualmente, meu trabalho está concentrado em:
 
-<br/>
+- Arquitetura e engenharia de dados
+- Pipelines ETL/ELT
+- Modelagem de dados e governança
+- Dashboards e indicadores de performance
+- Automação com Python, APIs e integrações
+- Inteligência artificial aplicada a dados e processos
 
-### Business Intelligence & Analytics
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+> Foco atual: Power BI | Python | SQL | ETL/ELT | APIs REST | Data Modeling | Automação | IA aplicada a dados
 
-### Automação & IA Generativa
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+---
 
-</div>
+## 💼 Experiência profissional
 
-<br/>
+| Empresa | Cargo | Período | Destaques |
+| :--- | :--- | :--- | :--- |
+| **PREMINT** | Analista de Inteligência Empresarial | jun/2026 — atual | Dashboards de produção, estoque, vendas e financeiro; modelagem de dados em Power BI; automações e indicadores executivos |
+| **Perto S.A.** | Assistente de Operações | out/2024 — fev/2026 | Apoio à gestão da filial; controle de estoque e logística; análise de processos e suporte operacional com ERP |
 
-## 📜 Certificações
+---
+
+## 🛠️ Stack tecnológica
+
+### Dados & BI
+
+<img src="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,sql,aws,gcp,git,github,vscode&theme=dark" alt="Stack de dados e ferramentas" />
+
+### Business Intelligence
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+
+### Automação & IA
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+
+---
+
+## 📌 Projetos e interesses
+
+- Dashboards executivos e relatórios de performance
+- Modelagem de dados para tomada de decisão
+- ETL/ELT e automações de suporte operacional
+- Integração de dados entre sistemas e plataformas
+- IA aplicada ao contexto de dados e produtividade
+
+---
+
+## 🎓 Certificações
 
 <div align="center">
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🎯 Business Intelligence
-* **Power BI Intermediário** — Santander Open Academy
-* **Power Query & Modelagem de Dados** — Daxus
-* **Design de Dashboards** — Daxus
-* **Fundamentos de DAX** — Daxus
-* **Análise de Dados no Power BI** — Fundação Bradesco
+### Business Intelligence
+- **Power BI Intermediário** — Santander Open Academy
+- **Power Query & Modelagem de Dados** — Daxus
+- **Design de Dashboards** — Daxus
+- **Fundamentos de DAX** — Daxus
+- **Análise de Dados no Power BI** — Fundação Bradesco
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
-### ☁️ Dados & Cloud
-* **AI/BI for Data Analysts** — Databricks
-* **Data, Data, Everywhere** — Google
-* **Introdução à Ciência de Dados** — FGV
-* **Excel para Ciência de Dados** — FGV
-* **Proteção de Dados (LGPD)** — FGV
+### Dados & Cloud
+- **AI/BI for Data Analysts** — Databricks
+- **Data, Data, Everywhere** — Google
+- **Introdução à Ciência de Dados** — FGV
+- **Excel para Ciência de Dados** — FGV
+- **Proteção de Dados (LGPD)** — FGV
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### 🐍 Python & Automação
-* **Cursor com Python: Dev. Inteligente com IA** — Santander
-* **Python** — FIAP
-* **Fundamentos de Python à Aplicações de IA** — Data Science Academy
+### Python & Automação
+- **Cursor com Python: Dev. Inteligente com IA** — Santander
+- **Python** — FIAP
+- **Fundamentos de Python à Aplicações de IA** — Data Science Academy
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
-### 🤖 Inteligência Artificial
-* **AI Reports com Excel, GPT Agents e Claude Code** — DIO
-* **Machine Learning e GenAI na Prática** — DIO
-* **Fundamentos de IA Generativa com Bedrock** — DIO
-* **IA Generativa e o ChatGPT** — FGV
-* **Soluções de IA no GitHub** — Fundação Bradesco
+### Inteligência Artificial
+- **AI Reports com Excel, GPT Agents e Claude Code** — DIO
+- **Machine Learning e GenAI na Prática** — DIO
+- **Fundamentos de IA Generativa com Bedrock** — DIO
+- **IA Generativa e o ChatGPT** — FGV
+- **Soluções de IA no GitHub** — Fundação Bradesco
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
-<sub>👉 <a href="https://www.linkedin.com/in/igorsa93/details/certifications/" target="_blank">Clique aqui para validar todas as certificações no LinkedIn</a></sub>
+<sub>👉 <a href="https://www.linkedin.com/in/igorsa93/details/certifications/" target="_blank">Validar certificações no LinkedIn</a></sub>
 
 </div>
+
+---
 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-<br/>
 
-<img width="66%" src="https://github-readme-streak-stats.herokuapp.com/?user=igoorsa93&theme=tokyonight&hide_border=true&background=0d1117&ring=2563EB&fire=F97316&currStreakLabel=2563EB"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=igoorsa93&theme=tokyonight&hide_border=true&background=0d1117&ring=2563EB&fire=F97316&currStreakLabel=2563EB" alt="GitHub streak stats" />
 
 </div>
+
+---
+
+## 🤝 Conecte-se
+
+- LinkedIn: https://linkedin.com/in/igorsa93
+- Email: igoorsa93@gmail.com
+- GitHub: https://github.com/igoorsa93
+
