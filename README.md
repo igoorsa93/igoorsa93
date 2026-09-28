@@ -157,9 +157,12 @@ Ferramentas que utilizo para análise de dados, BI, automação e desenvolviment
       </a>
     </td>
     <td valign="top">
-      <h3 align="left">🗺️ Açaí Map — Inteligência Geográfica</h3>
+      <h3 align="left">
+        <img src="https://igoorsa93.github.io/acai-map-belem/assets/logo-mark.svg" width="22" height="22" valign="middle" alt="Logo Açaí Map" />
+        &nbsp;Açaí Map — Inteligência Geográfica
+      </h3>
       <p>
-        Análise geográfica e mapeamento de estabelecimentos relacionados ao mercado de açaí em Belém (PA), com coleta, tratamento, deduplicação, geolocalização e visualização interativa.
+        Análise geográfica e mapeamento interativo de estabelecimentos do mercado de açaí em Belém (PA). Contempla extração de dados, tratamento, deduplicação de registros, enriquecimento geoespacial e visualização dinâmica.
       </p>
       <p>
         <kbd>Python</kbd> &nbsp;
@@ -184,9 +187,12 @@ Ferramentas que utilizo para análise de dados, BI, automação e desenvolviment
       </a>
     </td>
     <td valign="top">
-      <h3 align="left">⚙️ Automação Financeira — Omie API</h3>
+      <h3 align="left">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/n8n.svg" width="22" height="22" valign="middle" alt="Logo n8n Automação" />
+        &nbsp;Automação Financeira — Omie API
+      </h3>
       <p>
-        Automação do processo de consolidação de dados financeiros, integrando API, tratamento de dados e automações para reduzir atividades manuais e facilitar a disponibilização das informações.
+        Pipeline completo para integração e consolidação de dados financeiros via API REST e n8n. Reduz o retrabalho operacional, elimina conciliações manuais e disponibiliza métricas estruturadas para relatórios gerenciais.
       </p>
       <p>
         <kbd>Python</kbd> &nbsp;
@@ -211,15 +217,18 @@ Ferramentas que utilizo para análise de dados, BI, automação e desenvolviment
       </a>
     </td>
     <td valign="top">
-      <h3 align="left">📊 Dashboard de Gestão de Filiais</h3>
+      <h3 align="left">
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="22" height="22" valign="middle" alt="Logo Power BI" />
+        &nbsp;Dashboard de Gestão de Filiais
+      </h3>
       <p>
-        Dashboard desenvolvido para acompanhamento de vendas, faturamento, ticket médio, estoque, rankings e desempenho de filiais.
+        Painel analítico no Power BI focado na gestão comercial e operacional multiloja: acompanhamento de faturamento, ticket médio, margens, giro de estoques e rankings comparativos com atualização sistemática.
       </p>
       <p>
         <kbd>Power BI</kbd> &nbsp;
         <kbd>DAX</kbd> &nbsp;
         <kbd>Power Query</kbd> &nbsp;
-        <kbd>Modelagem</kbd> &nbsp;
+        <kbd>Modelagem Dimensional</kbd> &nbsp;
         <kbd>Excel</kbd>
       </p>
       <p>
